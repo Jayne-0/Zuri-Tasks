@@ -23,7 +23,7 @@ header button {
   font-weight: 500;
   border: none;
   border-radius: 45px;
-  background: linear-gradient(90deg,#03a9f4,#f441a5,#ffeb3b,#03a9f4);
+  background: linear-gradient(90deg,#545b5e,#311626,#887b09,#074d6d);
   transition: all 0.3s ease 0s;
   cursor: pointer;
   outline: none;
@@ -119,12 +119,12 @@ button {
 
 .box-2 button{
   background-color: #fff;
-  color: #016972;
+  color: #065e66;
 }
 
 .box-3 button{
   background-color: #fff;
-  color: #00403f;
+  color: #515858;
 }
 
 
